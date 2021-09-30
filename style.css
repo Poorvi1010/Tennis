@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: cursive;
+    
+}
+#Welcome {
+    background-image: linear-gradient(to bottom right, pink, rgb(115, 255, 236));
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+border-radius: 120px;
+box-shadow: 10px 10px 5px grey;
+}
+#bio {
+background-color: aqua;
+font-family: cursive;
+}
+#bio2 {
+    background-color: lightskyblue;
+    font-family: cursive;
+
+}
+.img {
+    width: 300px;
+    height: 300px;
+}
+
+#img {
+    background-color: cyan;
+}
